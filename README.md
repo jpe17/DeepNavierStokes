@@ -18,6 +18,13 @@
 
 **DeepRANSProject** is a cutting-edge project aimed at solving the Reynolds-Averaged Navier-Stokes (RANS) equations for 1D channel flow using neural networks. By leveraging various closure models, this project explores the integration of deep learning techniques with traditional fluid dynamics to achieve accurate and efficient simulations.
 
+Welcome to the project! Below is an overview video that explains the key features and functionalities.
+
+<video width="600" controls>
+  <source src="../assets/videos/overview.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Features
 
 - **Neural Network Integration**: Utilizes the [NeuroDiffEq](https://github.com/odegym/neurodiffeq) library to solve differential equations with neural networks.

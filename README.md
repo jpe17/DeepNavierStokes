@@ -18,12 +18,15 @@
 
 **DeepRANSProject** is a cutting-edge project aimed at solving the Reynolds-Averaged Navier-Stokes (RANS) equations for 1D channel flow using neural networks. By leveraging various closure models, this project explores the integration of deep learning techniques with traditional fluid dynamics to achieve accurate and efficient simulations.
 
-Welcome to the project! Below is an overview video that explains the key features and functionalities.
+<p align="center">
+  <a href="https://youtu.be/VDLwyFD-sXQ" target="_blank">
+    <img src="https://img.youtube.com/vi/VDLwyFD-sXQ/maxresdefault.jpg" alt="Quick Walkthrough Demo Video" width="80%" style="border: none;">
+  </a>
+</p>
 
-<video width="600" controls>
-  <source src="../assets/videos/overview.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+*Click the image above to watch the Quick Walkthrough Demo Video on YouTube.*
+
+For more information, please visit our [documentation](https://neurodiffeq.readthedocs.io/en/latest/) or watch our [quick walkthrough demo video](https://youtu.be/VDLwyFD-sXQ).
 
 ## Features
 
@@ -140,17 +143,3 @@ This project is licensed under the [MIT License](neurodiffeq/LICENSE). You are f
 - [NeuroDiffEq](https://github.com/odegym/neurodiffeq) for providing a robust framework for solving differential equations with neural networks.
 - The open-source community for their continuous support and contributions.
 - [Deep Learning](https://www.tensorflow.org/) and [PyTorch](https://pytorch.org/) communities for their exceptional tools and libraries.
-
----
-
-## Quick Walkthrough Demo Video
-
-<p align="center">
-  <a href="https://youtu.be/VDLwyFD-sXQ" target="_blank">
-    <img src="https://img.youtube.com/vi/VDLwyFD-sXQ/maxresdefault.jpg" alt="Quick Walkthrough Demo Video" width="80%" style="border: none;">
-  </a>
-</p>
-
-*Click the image above to watch the Quick Walkthrough Demo Video on YouTube.*
-
-For more information, please visit our [documentation](https://neurodiffeq.readthedocs.io/en/latest/) or watch our [quick walkthrough demo video](https://youtu.be/VDLwyFD-sXQ).

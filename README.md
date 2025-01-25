@@ -136,10 +136,14 @@ This project is licensed under the [MIT License](neurodiffeq/LICENSE). You are f
 
 ---
 
+## Quick Walkthrough Demo Video
+
 <p align="center">
-  <a href='https://youtu.be/VDLwyFD-sXQ'>
-    <img src="resources/watermark-cover.jpg" width="80%">
+  <a href="https://youtu.be/VDLwyFD-sXQ" target="_blank">
+    <img src="https://img.youtube.com/vi/VDLwyFD-sXQ/maxresdefault.jpg" alt="Quick Walkthrough Demo Video" width="80%" style="border: none;">
   </a>
 </p>
+
+*Click the image above to watch the Quick Walkthrough Demo Video on YouTube.*
 
 For more information, please visit our [documentation](https://neurodiffeq.readthedocs.io/en/latest/) or watch our [quick walkthrough demo video](https://youtu.be/VDLwyFD-sXQ).
